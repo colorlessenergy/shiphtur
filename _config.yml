@@ -1,0 +1,2 @@
+baseurl: /shiphtur
+exclude: ["README.md"]
